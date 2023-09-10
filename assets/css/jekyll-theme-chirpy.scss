@@ -1,0 +1,18 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+html {
+	font-family: Inter, Helvetica, sans-serif;
+}
+
+#sidebar .site-title {
+	font-size: 1.3rem;
+}
+
+#archives .year::after {
+	left: 16.5px;
+}
