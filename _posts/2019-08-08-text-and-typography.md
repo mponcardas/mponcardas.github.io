@@ -6,10 +6,6 @@ categories: [Blogging, Demo]
 tags: [typography]
 pin: true
 math: true
-mermaid: true
-image:
-  path: https://images.pexels.com/photos/17900125/pexels-photo-17900125/free-photo-of-scenic-view-of-a-seacoast.jpeg
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
