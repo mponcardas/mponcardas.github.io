@@ -137,12 +137,13 @@ Just like wayfinding, infographics are a very useful tool to show commuters whic
 
 Infographics have seen a huge resurgence in recent years, and the trend continues unabated. Many are now integrating code and design to create a more interactive version of data visualization and immersive experiences by leveraging AR and VR technologies.
 
-<br>
 
----
+
+•••
+
 **Hi there! My name is Mchael 👋**
 
-Thank you for taking the time to read and I hope you learned something from this post! If you have any questions, inquiries, or suggestions, feel free to drop me message at mchael@poncardas.fi
+Thank you for taking the time to read and I hope you learned something from this post! If you have any questions, inquiries, or suggestions, feel free to drop me an email at *mchael@poncardas.fi*
 
 
 
