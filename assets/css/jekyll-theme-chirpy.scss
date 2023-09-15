@@ -4,8 +4,9 @@
 @import 'main';
 
 /* append your custom style below */
-html {
-	font-family: Inter, Helvetica, sans-serif;
+
+h1, h2, h3 {
+	font-weight: 600;
 }
 
 #sidebar .site-title {
@@ -14,4 +15,8 @@ html {
 
 #archives .year::after {
 	left: 16.3px;
+}
+
+img {
+	border-radius: 0.5rem;
 }
