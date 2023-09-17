@@ -143,7 +143,7 @@ Infographics have seen a huge resurgence in recent years, and the trend continue
 
 **Hi there! My name is Mchael 👋**
 
-Thank you for taking the time to read and I hope you learned something from this post! If you have any questions, inquiries, or suggestions, feel free to drop me an email at *mchael@poncardas.fi*
+Thank you for taking the time to read and I hope you learned something from this post! If you have any questions or suggestions, feel free to drop me an email at *mchael@poncardas.fi*
 
 
 

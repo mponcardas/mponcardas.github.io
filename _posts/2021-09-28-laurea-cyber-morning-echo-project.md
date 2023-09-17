@@ -5,10 +5,11 @@ date: 2021-09-28
 categories:
   - Project
 tags:
-  - cyber-security
+  - cybersecurity
   - laurea-amk
 image:
-  path: /OmVby.webp
+  path: "https://s6.imgcdn.dev/OmVby.webp"
+  alt: ECHO Project presentation
 ---
 
 > As part of the ECHO Project we organize a set of multi-actor Laurea Cyber Mornings with the aim to raise awareness around key topics of cybersecurity among higher education and provide a platform for networking with key actors and stakeholders.

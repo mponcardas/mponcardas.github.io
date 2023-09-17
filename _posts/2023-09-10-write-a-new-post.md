@@ -6,7 +6,7 @@ categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
 image:
-  path: "https://s6.imgcdn.dev/Om7Lq.jpg"
+  path: "https://s6.imgcdn.dev/OoPpd.jpg"
   alt: Photo by Christin Hume on Unsplash
 ---
 
