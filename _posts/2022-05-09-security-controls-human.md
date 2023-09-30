@@ -9,7 +9,7 @@ tags:
   - laurea-amk
 image:
   path: "https://s6.imgcdn.dev/Oo66T.jpg"
-  alt: Photo by Chris Barbalis on Unsplash
+  alt: "Photo by Chris Barbalis on Unsplash"
 ---
 
 In the realm of cybersecurity, Social Engineering is defined as "a set of techniques used by cybercriminals to manipulate individuals into divulging confidential information, installing malware, or clicking on links to infected sites" (Kaspersky Lab). At its core, social engineering exploits a target's emotional responses and natural tendencies to deceive them into revealing sensitive information (Symantec).

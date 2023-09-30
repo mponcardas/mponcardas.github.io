@@ -8,8 +8,8 @@ tags:
   - infographics
   - visual-communication
 image:
-  path: /OLrVS.jpg
-  alt: Daytime high temperature forecast in Finland for Friday (PE), Saturday (LA) and Sunday (SU). Image - Yle
+  path: "https://s6.imgcdn.dev/OLrVS.jpg"
+  alt: "Daytime high temperature forecast in Finland for Friday (PE), Saturday (LA) and Sunday (SU). Image - Yle"
 ---
 
 Over the years, the diversity of information has grown exponentially, and combined with people's dwindling attention spans, it has become a major challenge to communicate complex statistical data using traditional methods in a way that is understandable to the general public.
@@ -18,7 +18,7 @@ Fortunately, fields that rely on scientific data have found creative and clever 
 
 ## Charts Communicate Better Than Tables of Data
 
-![Whiteboard with writing](/OL2se.jpg){: width="700"}
+![Whiteboard with writing](https://s6.imgcdn.dev/OL2se.jpg){: width="700"}
 
 In the past, data was mainly presented in tabular form, similar to a spreadsheet. Over time, this method proved difficult to use as the amount of data grew exponentially and complexity increased as well.
 
@@ -30,15 +30,15 @@ With the continuous flow of data generation, infographics were adopted for mass 
 
 William Playfair was a political economist and engineer whose books The Commercial and Political Atlas (1786) and The Statistical Breviary (1801) contain one of the earliest forms of graphical representation of economic data, which ushered the modern use of data visualization.
 
-![Exports and Imports of Scotland to and from different parts for one Year from Christmas 1780 to Christmas 1781](/OmiIM.jpg){: width="700"}
+![Exports and Imports of Scotland to and from different parts for one Year from Christmas 1780 to Christmas 1781](https://s6.imgcdn.dev/OmiIM.jpg){: width="700"}
 _Exports and Imports of Scotland to and from different parts for one Year from Christmas 1780 to Christmas 1781_
 
-![Time series graph of trade balances 1786](/OmnLl.png){: width="700"}
+![Time series graph of trade balances 1786](https://s6.imgcdn.dev/OmnLl.png){: width="700"}
 _Time series graph of trade balances 1786_
 
 Playfair is credited with inventing the modern charts and graphs we use today to visualize changes in various types of data over a period of time.
 
-![Pie charts from Playfair's "Statistical Breviary" 1801](/Omk7d.png){: width="700"}
+![Pie charts from Playfair's "Statistical Breviary" 1801](https://s6.imgcdn.dev/Omk7d.png){: width="700"}
 _Pie charts from Playfair's "Statistical Breviary" 1801_
 
 According to Playfair, using data visualization makes it much easier for people to understand numerical or statistical information than the written words traditionally presented in a table format. Playfair's use of graphs and charts eliminated the need for specialized knowledge to understand complex data sets.
@@ -49,15 +49,15 @@ The International System of Typographic Picture Education (ISOTYPE) is a standar
 
 ISOTYPE was used primarily to visually represent socioeconomic data, with the main principle being "visual literacy" to make complex data accessible to lay people.
 
-![Weekly Earnings of Men and Women 1940](/Omy6h.png){: width="700"}
+![Weekly Earnings of Men and Women 1940](https://s6.imgcdn.dev/Omy6h.png{: width="700"}
 _Weekly Earnings of Men and Women, 1940_
 
 ISOTYPE was the result of a collaboration between Otto Neurath, an Austrian sociologist and economist, and Gerd Antz, a German artist.
 
-![The young population aged 13-20 United States](/OmKVK.png){: width="700"}
+![The young population aged 13-20 United States](https://s6.imgcdn.dev/OmKVK.png){: width="700"}
 _The young population aged 13 to 20 in United States_
 
-![Births and deaths in 1938](/Om0BN.png){: width="700"}
+![Births and deaths in 1938](https://s6.imgcdn.dev/Om0BN.png){: width="700"}
 _Births and Deaths in 1938_
 
 ## Bringing The World to Life, One Infographic at A Time
